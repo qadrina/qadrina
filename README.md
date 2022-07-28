@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qadrina
 - 👀 I’m interested in software development!
-- 🌱 I’m currently learning C#, C++, and Python.
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking for software development roles and collaborate on software development projects.
 - 📫 How to reach me: email me najlaqadrina@gmail.com
 
