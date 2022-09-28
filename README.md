@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qadrina
-- 👀 I’m interested in software development!
-- 🌱 I’ve been learning C# and SQL since 2020.
-- 💞️ I’m looking for software development roles and collaborate on software development projects using C# and ASP.NET.
+- 👀 I’m interested in C# software development, using Blazor.
+- 🌱 I’ve been learning C# and SQL since 2021.
+- 💞️ I’m looking for software development roles and collaborate on software development projects using C#, Blazor, and ASP.NET.
 - 📫 How to reach me: email me najlawijaya@gmail.com
 
 <!---
