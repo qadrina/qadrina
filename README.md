@@ -1,6 +1,7 @@
 <h1>Hi, I'm Qadrina</h1>
 <br/>
-I'm a <b>software developer</b>. Daily tech I used includes: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and JS.
+I'm a <b>software developer</b>. <br/>
+Daily tech I used includes: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and JS.
 <br />
 <br />
 ✨ Portfolio: <a href="http://qadrina.github.io/site">qadrina.github.io/site</a><br/>
