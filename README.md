@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @qadrina
-- 👀 I’m interested in C# software development, using Blazor and SignalR.
-- 🌱 I’ve been learning C# and SQL since 2021.
-- 💞️ I’m looking for software development roles and collaborate on software development projects using C#, Blazor, and ASP.NET.
-- 📫 How to reach me: email me najlawijaya@gmail.com
+<h1>Hi, I'm Qadrina</h1>
+I'm a <b>software developer</b>. Daily tech I used includes: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and JS.
+<br />
+- ✨ Portfolio: <a href="http://qadrina.github.io/site">qadrina.github.io/site</a>
+- 📫 Email: najlawijaya@gmail.com
+- 👋 LinkedIn: <a href="https://www.linkedin.com/in/najlaqadrina/">Najla Qadrina Humaira Wijaya</a>
 
 <!---
 qadrina/qadrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
