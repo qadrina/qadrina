@@ -1,6 +1,6 @@
 <h1>Hi, I'm Qadrina</h1>
 <br/>
-I'm a <b>software developer</b>. <br/>
+You can call me Adrin, too. I'm a <b>software developer</b>. <br/>
 Daily tech I used includes: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and JS.
 <br />
 <br />
