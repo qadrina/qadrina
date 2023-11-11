@@ -1,12 +1,11 @@
 <h1>Hi, I'm Qadrina</h1>
 <br/>
 You can call me Adrin, too. I'm a <b>backend software developer</b>. <br/>
-Daily tech I used: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and JS.
-<br />
-Currently I'm learning Golang.
 <br />
 <br />
-<b>Tools</b>: Visual Studio, SQL Server, Postman API, Gitlab, GitHub
+<b>Tech</b>: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and Golang.
+<br />
+<b>Tools</b>: Visual Studio, SQL Server, Postman API, Gitlab, GitHub, Visual Studio Code
 <br />
 <br />
 ✨ Portfolio: <a href="http://qadrina.github.io/site" target="_blank">qadrina.github.io/site</a><br/>
