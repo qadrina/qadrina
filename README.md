@@ -10,7 +10,7 @@ You can call me Adrin, too. I'm a <b>backend software developer</b>.
 <br />
 ✨ Portfolio: <a href="http://qadrina.github.io/site" target="_blank">qadrina.github.io/site</a><br/>
 📫 Email: najlawijaya@gmail.com <br/>
-👋 LinkedIn: <a href="https://www.linkedin.com/in/najlaqadrina/" target="_blank">Najla Qadrina Humaira Wijaya</a><br/>
+👋 LinkedIn: <a href="https://www.linkedin.com/in/najlaqadrina/" target="_blank">Qadrina Humaira Wijaya</a><br/>
 
 <!---
 qadrina/qadrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
