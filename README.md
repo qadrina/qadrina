@@ -1,9 +1,9 @@
-<h1>Hi, I'm Qadrina</h1>
+<h1>Hi, I'm Adrin</h1>
 <br/>
-You can call me Adrin, too. I'm a <b>backend software developer</b>.
+I'm a <b>backend software developer</b>.
 <br />
 <br />
-<b>Tech</b>: C#, SQL, .NET Framework, Blazor Framework, HTML, CSS, Acumatica ERP Framework, and Golang.
+<b>Tech</b>: C#, SQL, .NET Framework, Blazor Framework, Python, HTML, CSS, Acumatica ERP Framework, and Golang.
 <br />
 <b>Tools</b>: Visual Studio, SQL Server, Postman API, Gitlab, GitHub, Visual Studio Code
 <br />
