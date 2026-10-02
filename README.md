@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adrin</h1>
 <br/>
-I'm a <b>backend software developer</b>.
+I'm a <b>full-stack and backend software developer</b>.
 <br />
 <br />
 <b>Tech</b>: C#, SQL, .NET Framework, Blazor Framework, Python, HTML, CSS, Acumatica ERP Framework, and Golang.
